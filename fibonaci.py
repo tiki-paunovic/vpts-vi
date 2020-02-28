@@ -1,4 +1,4 @@
-
+#Fibonačijev niz
 n = int(input ("Koliko Fibonačijevih brojeva treba štampati: "))
 br1 = 1
 br2 =1
