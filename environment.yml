@@ -9,3 +9,4 @@ dependencies:
   - xlwt
   - scikit-learn
   - xlrd
+  - pydotplus
