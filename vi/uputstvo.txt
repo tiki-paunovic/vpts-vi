@@ -1,3 +1,2 @@
 https://mybinder.org/v2/gh/tiki-paunovic/test/e331e99503fadf79cb9aaded3f16b94bc6fc8fdc
 https://hub.gke2.mybinder.org/user/tiki-paunovic-test-vjzkeg56/lab/workspaces/auto-i
-https://hub.gke2.mybinder.org/user/tiki-paunovic-test-mpflz62v/lab/workspaces/Tiki_testira
