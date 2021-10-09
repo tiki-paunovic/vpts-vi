@@ -5,8 +5,8 @@ Najjednostavniji naƒçin da otvorite sveske unutar Jupytera je da odete na sledeƒ
 https://mybinder.org/v2/gh/tiki-paunovic/test/e331e99503fadf79cb9aaded3f16b94bc6fc8fdc.
 
 ## Video lekcije
-###Instalacija Anaconde
+#### Instalacija Anaconde
 https://www.youtube.com/watch?v=UKgd4LvILGg&t=537s
 
-### Jupyter Notebook - uvod
+#### Jupyter Notebook - uvod
 https://www.youtube.com/watch?v=8dONC6im9-c
