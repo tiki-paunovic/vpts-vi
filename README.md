@@ -1,8 +1,7 @@
 
 ## Pokretanje Jupyter radnih sveski pomoću servisa Binder
 Najjednostavniji način da otvorite sveske unutar Jupytera je da odete na sledeći link
-
-https://mybinder.org/v2/gh/tiki-paunovic/test/e331e99503fadf79cb9aaded3f16b94bc6fc8fdc.
+https://mybinder.org/v2/gh/tiki-paunovic/vpts-vi/HEAD
 
 ## Video lekcije
 #### Instalacija Anaconde
