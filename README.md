@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=UKgd4LvILGg&t=537s
 
 #### Jupyter Notebook - uvod
 https://www.youtube.com/watch?v=8dONC6im9-c
+
+#### Vizualizacija podataka u Python-u (matplotlib)
+https://youtu.be/WWXO3X6bdKg
