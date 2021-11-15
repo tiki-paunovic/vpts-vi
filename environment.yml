@@ -1,6 +1,4 @@
 name: myenv
-channels:
-  - defaults
 dependencies:
   - numpy
   - wordcloud
