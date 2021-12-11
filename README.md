@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=8dONC6im9-c
 
 #### Vizualizacija podataka u Python-u (matplotlib)
 https://youtu.be/WWXO3X6bdKg
+
+
+#### Linearna regresija u Pythonu korišćenjem NumPy biblioteke
+https://youtu.be/pmdilGEviiI
